@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{3EC12BFC-4400-411F-9895-6703E6742AEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{FCC779AF-30BD-4169-B915-F8083C564AC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryTest", "RepositoryTest\RepositoryTest.csproj", "{815B465C-7529-43F2-9994-543AE15A39D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EC12BFC-4400-411F-9895-6703E6742AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC12BFC-4400-411F-9895-6703E6742AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC12BFC-4400-411F-9895-6703E6742AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC12BFC-4400-411F-9895-6703E6742AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCC779AF-30BD-4169-B915-F8083C564AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC779AF-30BD-4169-B915-F8083C564AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC779AF-30BD-4169-B915-F8083C564AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC779AF-30BD-4169-B915-F8083C564AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{815B465C-7529-43F2-9994-543AE15A39D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{815B465C-7529-43F2-9994-543AE15A39D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{815B465C-7529-43F2-9994-543AE15A39D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{815B465C-7529-43F2-9994-543AE15A39D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
