@@ -1,0 +1,15 @@
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\PharmacyForms\bin\Debug\PharmacyForms.exe.config
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\PharmacyForms\obj\Debug\PharmacyForms.csprojResolveAssemblyReference.cache
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\PharmacyForms\obj\Debug\PharmacyForms.Properties.Resources.resources
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\PharmacyForms\obj\Debug\PharmacyForms.Purchases.resources
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\PharmacyForms\obj\Debug\PharmacyForms.csproj.GenerateResource.Cache
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\PharmacyForms\bin\Debug\PharmacyForms.exe
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\PharmacyForms\bin\Debug\PharmacyForms.pdb
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\PharmacyForms\bin\Debug\Model.dll
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\PharmacyForms\bin\Debug\Repository.dll
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\PharmacyForms\bin\Debug\Dapper.dll
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\PharmacyForms\bin\Debug\Model.pdb
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\PharmacyForms\bin\Debug\Repository.pdb
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\PharmacyForms\bin\Debug\Dapper.xml
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\PharmacyForms\obj\Debug\PharmacyForms.exe
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\PharmacyForms\obj\Debug\PharmacyForms.pdb

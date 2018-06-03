@@ -28,5 +28,32 @@ namespace Repository
         {
             return Repository.Base.ReadById<PurchasedMedicines>("getPurchasedMedicines", new { purchase_id = id });
         }
+
+        public static int insertPurchase(string pesel)
+        {
+            return Base.Insert<int>("AddPurchase", new { pesel = pesel });
+        }
+
+        public static int deletePurchase(string pesel, string date)
+        {
+            return Base.Delete<int>("DeletePurchase", new { pesel = pesel , date = date});
+        }
+
+        public static decimal getSum(int id)
+        {
+            var result = Repository.Base.ReadById<decimal>("getSum", new { id = id });
+
+            return result.FirstOrDefault();
+        }
+
+        public static int deletePurchaseMedicine(int id, string name, decimal amount)
+        {
+            return Base.Delete<int>("DeleteMedicineFromPurchase", new { id = id, name = name, amount = amount });
+        }
+
+        public static int insertPurchaseMedicine(int id, string name, decimal amount)
+        {
+            return Base.Insert<int>("AddMedicineToPurchase", new { id = id, name = name, amount = amount });
+        }
     }
 }
