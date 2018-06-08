@@ -1,0 +1,7 @@
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\Model\bin\Debug\Model.dll
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\Model\bin\Debug\Model.pdb
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\Model\bin\Debug\Dapper.dll
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\Model\bin\Debug\Dapper.xml
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\Model\obj\Debug\Model.dll
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\Model\obj\Debug\Model.pdb

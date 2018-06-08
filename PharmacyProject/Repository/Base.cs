@@ -30,5 +30,25 @@ namespace Repository
                 return value;
             }
         }
+
+        public static T Insert<T>(string procedure, object args)
+        {
+            using (SqlConnection con = new SqlConnection("Data Source=.;Initial Catalog=database;User ID=user;Password=password"))
+            {
+                var value = con.ExecuteScalar<T>(procedure, args, commandType: CommandType.StoredProcedure);
+
+                return value;
+            }
+        }
+
+        public static T Delete<T>(string procedure, object args)
+        {
+            using (SqlConnection con = new SqlConnection("Data Source=.;Initial Catalog=database;User ID=user;Password=password"))
+            {
+                var value = con.ExecuteScalar<T>(procedure, args, commandType: CommandType.StoredProcedure);
+
+                return value;
+            }
+        }
     }
 }

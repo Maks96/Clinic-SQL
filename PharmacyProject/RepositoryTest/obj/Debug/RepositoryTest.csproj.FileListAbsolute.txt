@@ -1,0 +1,12 @@
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\RepositoryTest\bin\Debug\RepositoryTest.exe.config
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\RepositoryTest\bin\Debug\RepositoryTest.exe
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\RepositoryTest\bin\Debug\RepositoryTest.pdb
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\RepositoryTest\bin\Debug\Dapper.dll
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\RepositoryTest\bin\Debug\Model.dll
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\RepositoryTest\bin\Debug\Repository.dll
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\RepositoryTest\bin\Debug\Model.pdb
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\RepositoryTest\bin\Debug\Repository.pdb
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\RepositoryTest\bin\Debug\Dapper.xml
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\RepositoryTest\obj\Debug\RepositoryTest.csprojResolveAssemblyReference.cache
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\RepositoryTest\obj\Debug\RepositoryTest.exe
+C:\Users\Magda\Pharmacy\Pharmacy2\Pharmacy-SQL\PharmacyProject\RepositoryTest\obj\Debug\RepositoryTest.pdb
