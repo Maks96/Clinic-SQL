@@ -55,5 +55,25 @@ namespace Repository
         {
             return Base.Insert<int>("AddMedicineToPurchase", new { id = id, name = name, amount = amount });
         }
+
+        public static int insertEmployee(string pesel, string first_name, string last_name, string address, string telephone_number, string city)
+        {
+            return Base.Insert<int>("AddEmployee", new { pesel, first_name, last_name, address, telephone_number, city });
+        }
+
+        public static int deleteEmployee(string pesel)
+        {
+            return Base.Delete<int>("DeleteEmployee", new { pesel });
+        }
+
+        public static int insertMedicine(string name, string description, decimal unit_price)
+        {
+            return Base.Insert<int>("AddMedicine", new { name, description, unit_price });
+        }
+
+        public static int deleteMedicine(string medicine_name)
+        {
+            return Base.Delete<int>("DeleteMedicine", new { medicine_name });
+        }
     }
 }

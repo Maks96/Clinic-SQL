@@ -6,6 +6,14 @@ begin
 	DECLARE @succeed INT = 1 ,@failure INT = 0
 	BEGIN TRAN tran_DeletePurchase
 	begin try
+		DELETE FROM PurchasedMedicines
+                 WHERE purchase_id IN
+							 (
+								SELECT purchase_id
+								FROM Purchases
+								WHERE employee_pesel = @pesel
+							 );
+		
 		delete from Purchases
 		where employee_pesel = @pesel
 		and 
